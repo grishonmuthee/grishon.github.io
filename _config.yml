@@ -1,3 +1,6 @@
-theme: jekyll-theme-minimal
-title: Grishon – Cybersecurity Portfolio
-description: Cybersecurity projects, labs, and writeups
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Jared Young
+description: I am building a small portfolio to showcase some of my knowledge and experience.
